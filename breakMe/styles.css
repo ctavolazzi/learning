@@ -1,0 +1,26 @@
+body {
+  background-color: tomato;
+}
+
+table {
+  padding: 15px;
+  margin: 60px;
+  border: 10px solid black;
+}
+
+section {
+  padding: 15px;
+  margin: 60px;
+  border: 10px solid gold;
+}
+
+img {
+  height:550px;
+  width: 800px;
+}
+
+.floatingImage {
+  height: 550;
+  width: 500;
+  float: left;
+}
